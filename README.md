@@ -14,7 +14,6 @@ Ce repository est construit étape par étape avec le support de formation fourn
 [MyDigitalSchool](https://www.mydigitalschool.com)
 
 ![Logo](https://www.lacuisineduweb.com/wp-content/uploads/2020/01/logo-grand-detoure.png)
-)
 
 1. Premier élément
 2. Deuxième élément
